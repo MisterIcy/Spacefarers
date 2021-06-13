@@ -1,0 +1,11 @@
+# Ignore PHPStorm's Files
+.idea/
+
+# Ignore local configurations
+.env
+phpunit.xml
+phpstan.neon
+phpdoc.xml
+
+# Ignore Libraries
+vendor/
